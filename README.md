@@ -14,7 +14,7 @@ Desenvolvido para a disciplina de **Banco de Dados** do curso de **Engenharia de
 - **Disciplina:** Banco de Dados (2º Semestre de 2026)
 - **Professor:** Marcio José da Cunha
 - **Aluna:** Ana Flávia de Oliveira
-- **Matrícula:** 12411ECP025
+
 
 ---
 
