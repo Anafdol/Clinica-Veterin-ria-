@@ -12,8 +12,6 @@ Desenvolvido para a disciplina de **Banco de Dados** do curso de **Engenharia de
 - **Faculdade:** Faculdade de Engenharia Elétrica (FEELT)
 - **Curso:** Engenharia de Computação
 - **Disciplina:** Banco de Dados (2º Semestre de 2026)
-- **Professor:** Marcio José da Cunha
-- **Aluna:** Ana Flávia de Oliveira
 
 
 ---
