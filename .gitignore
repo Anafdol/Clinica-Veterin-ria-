@@ -1,0 +1,11 @@
+# Binarios e arquivos temporarios do SO
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs e arquivos de IDE / Editores
+*.log
+.vscode/
+.idea/
+*.swp
+*~
